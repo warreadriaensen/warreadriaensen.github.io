@@ -3,11 +3,11 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+# If you are not using Google Analytics, please change 'google-ID' to an empty string. it was this: UA-112060364-2
+google-ID: ''
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Warre Test',  url: 'warretest'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
