@@ -7,12 +7,12 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Warre Test',  url: 'warretest'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+#- {name: 'All',  url: 'allt'}
+- {name: 'Master Studies', url: 'masterstudies'}
+- {name: 'Tips & Tricks',       url: 'tipsandtricks'}
+- {name: 'Other',      url: 'other'}
 - {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+#- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -30,8 +30,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Thanks for reading!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Read More...'
 
 post_date_prefix: 'Written on'
