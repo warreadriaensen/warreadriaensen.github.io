@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "IntroductionPost"
-author: "Warre"
-categories: warretest
+author: "Paul Le"
+categories: sample
 tags: [sample]
 image: warretest.jpg
 ---
