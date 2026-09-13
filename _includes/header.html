@@ -11,11 +11,13 @@
     </style>
 </head>
 <header class="site-header">
+    <div class="logo-bar">
      <a href="https://warreadriaensen.github.io/">
-        <img id="logo" src="favicon.ico" alt="Click to go this blogs homepage" width="40" height="40"> </a>
+        <img id="logo" src="favicon.ico" alt="Click to go this blogs homepage" width="50" height="50"> </a>
   <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
+     </div>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
