@@ -2,7 +2,7 @@
 layout: post
 title: "IntroductionPost"
 author: "Paul Le"
-categories: sample
+categories: warretest
 tags: [sample]
 image: warretest.jpg
 ---
