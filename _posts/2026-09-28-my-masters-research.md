@@ -30,7 +30,7 @@ During my research I stumbled upon some great Houdini resources. I saved them to
 [Mengya's Gumroad](https://myz731.gumroad.com "https://myz731.gumroad.com")\
 [Gerardo Castellanos' Gumroad](https://gerardocastellanos.gumroad.com "https://gerardocastellanos.gumroad.com")\
 [Junichiro Horikawa's Youtube](https://www.youtube.com/watch?v=AY_WBjpI6Mw "https://www.youtube.com/watch?v=AY_WBjpI6Mw")\
-[Houdini Fun's Github](https://github.com/MysteryPancake/Houdini-Fun/tree/main "https://github.com/MysteryPancake/Houdini-Fun/tree/main")\
+[Houdini Fun's Github](https://github.com/MysteryPancake/Houdini-Fun/tree/main "https://github.com/MysteryPancake/Houdini-Fun/tree/main")
 
 
 If you want to keep up to date with this research, make sure to check in on this blog every once in a while!\
