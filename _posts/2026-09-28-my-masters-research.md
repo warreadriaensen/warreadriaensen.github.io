@@ -11,7 +11,7 @@ image: Cage-Based_Deformation_v001.png
 Hey!
 
 
-### Research Update
+## Research Update
 At the time of writing I'm around week 4 of my research.
 
 Week 1 and 2 were mainly orientation and setting up adminitrative documents, as well as this blog!\
@@ -22,7 +22,7 @@ There are a few corners of this topic that I'd like to improve on, but to figure
 I hope to interview plenty of industry professionals this way and extrapolate their needs from it.\
 If you would like to help me out, you can fill in [this form](https://forms.gle/q7JgzhPARuhkaQXT9 "https://forms.gle/q7JgzhPARuhkaQXT9")!
 
-### Interesting Resources
+## Interesting Resources
 During my research I stumbled upon some great Houdini resources. I saved them to my own list, but here they are if you want to know about them too!
 
 [Tumble Trove Website](https://tumbletrove.com "https://tumbletrove.com")\
