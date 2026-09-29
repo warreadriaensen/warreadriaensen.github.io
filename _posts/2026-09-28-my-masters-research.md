@@ -6,8 +6,6 @@ categories: masterstudies
 tags: [masterstudies]
 image: Cage-Based_Deformation_v001.png
 ---
-![About Me 02](/assets/img/Cage-Based_Deformation_v001.png)
-
 Hey!
 
 
